@@ -1,0 +1,109 @@
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.pdb
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.dll
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.pdb
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancWinform.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancWinform.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancOOP.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancOOP.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\bin\Debug\SatrancWinform.exe
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\bin\Debug\SatrancWinform.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\bin\Debug\SatrancOOP.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\bin\Debug\SatrancOOP.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\obj\Debug\SatrancWinform.exe
+G:\tez ile alakalı\kodlar\Nesne Temelli Programlama\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\bin\Debug\SatrancWinform.exe
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\bin\Debug\SatrancWinform.pdb
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\bin\Debug\SatrancOOP.dll
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\bin\Debug\SatrancOOP.pdb
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\Users\gurcan\Desktop\Satranc-master\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.pdb
+L:\Satranc-master\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+L:\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.exe
+L:\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.pdb
+F:\Satranc-master\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+F:\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.exe
+F:\Satranc-master\SatrancWinform\obj\Debug\SatrancWinform.pdb
+K:\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+K:\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.exe
+K:\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.pdb
+K:\ \SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+K:\ \SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.exe
+K:\ \SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.pdb
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\bin\Debug\SatrancOOP.dll
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\bin\Debug\SatrancOOP.pdb
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+C:\Users\gc\OneDrive\01_Bahar_Donemi_Dersler\Nesne Yonelimli Programlama\Ornek_Uygulamalar\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.pdb
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\bin\Debug\SatrancOOP.dll
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\bin\Debug\SatrancOOP.pdb
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+D:\OOP\isteyeneOdev\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.pdb
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\bin\Debug\SatrancOOP.dll
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\bin\Debug\SatrancOOP.pdb
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\2017-2018 Ders Notları\OOP (2017-2018)\SatrancOOP\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\Users\ASUS\Desktop\2017-2018 Ders Notları\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\Users\ASUS\Desktop\2017-2018 Ders Notları\OOP (2017-2018)\SatrancOOP\SatrancWinform\obj\Debug\SatrancWinform.pdb
